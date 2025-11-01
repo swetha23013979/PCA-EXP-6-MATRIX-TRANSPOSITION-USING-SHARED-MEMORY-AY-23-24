@@ -413,4 +413,4 @@ CHECK(cudaMemset(d_C, 0, nBytes));
 
 
 ## RESULT:
-Thus the program has been executed by using CUDA to transpose a matrix. It is observed that there are variations shared memory and global memory implementation. The elapsed times are recorded as _______________.
+Thus the program has been executed by using CUDA to transpose a matrix. It is observed that there are variations shared memory and global memory implementation. The elapsed times are recorded as 0.005188 seconds and 0.003894 seconds.
